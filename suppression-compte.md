@@ -56,7 +56,7 @@ commerciale. Aucune de ces données n'a jamais été transmise à un tiers.
 Ces données n'ont jamais quitté votre appareil, à l'exception des marqueurs techniques
 mentionnés ci-dessus.
 
-## 5. Supprimer une partie de vos données sans supprimer votre compte
+## 5. Supprimer une partie de vos données sans supprimer votre compte {#donnees}
 
 Vous n'êtes pas obligé de supprimer votre compte pour effacer des données :
 
