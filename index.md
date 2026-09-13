@@ -271,3 +271,7 @@ Toute modification substantielle sera publiée sur cette page avec une nouvelle 
 mise à jour, et signalée dans l'application avant l'activation d'un nouveau traitement.
 La politique est également consultable hors ligne depuis l'application, dans la version
 qui accompagne celle que vous avez installée.
+
+---
+
+Voir aussi : [Supprimer votre compte et vos données](suppression-compte/).
